@@ -1,0 +1,13 @@
+{
+    ".deps_version": 2,
+    "g++ -o ./tp ./main.o": {
+        ".": "input-5058f1af8388633f609cadb75a75dc9d",
+        "main.o": "input-c94e487b0a68cb56ff61d126ba05e4f2",
+        "tp": "input-9cfb389a4b2aa7e8a3ff65a58553a65a"
+    },
+    "g++ -std=c++11 -O2 -c ./main.cpp -o ./main.o": {
+        ".": "input-5058f1af8388633f609cadb75a75dc9d",
+        "main.cpp": "input-34b003585fba7271f8076447ff65129a",
+        "main.o": "input-c94e487b0a68cb56ff61d126ba05e4f2"
+    }
+}
